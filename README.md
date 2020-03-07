@@ -11,7 +11,7 @@ Outras libs:
   <li>Styled Components -> utilizada para estilizar componentes</li>
   <li>Axios -> consumo de apis rest (api github)</li>
    <li>React Icons -> utilizada para carregar icones para a aplicação</li>
-</ul  
+</ul>  
 
 ## Scripts
 
