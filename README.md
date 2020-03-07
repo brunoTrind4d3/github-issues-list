@@ -16,8 +16,8 @@ Outras libs:
 ## Scripts
 
 No diretório da aplicação, você pode rodar:
-
-### `yarn start`
+###### `yarn` para baixar todas as dependêcias do projeto.
+###### `yarn start`
 
 O app abrirá em modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizar a mesma no browser.
